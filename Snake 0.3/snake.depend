@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1642014456 source:/home/raf/Documents/snake/main.c
+	<stdio.h>
+	<stdlib.h>
+	"plateau.h"
+	<string.h>
+
+1642014218 source:/home/raf/Documents/snake/case_plateau.c
+
+1642014732 /home/raf/Documents/snake/plateau.h
+	"case_plateau.h"
+
+1642015319 /home/raf/Documents/snake/case_plateau.h
+	<stdbool.h>
+
+1642020259 source:/home/raf/Documents/snake/plateau.c
+	<getopt.h>
+	<ctype.h>
+	<unistd.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"plateau.h"
+
